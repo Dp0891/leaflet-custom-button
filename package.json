@@ -1,0 +1,24 @@
+{
+  "name": "leaflet-custom-button",
+  "version": "1.0.0",
+  "description": "used to create custom button in control area",
+  "main": "Leaflet-custom-button.js",
+  "scripts": {
+    "test": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dp0891/leaflet-custom-button.git"
+  },
+  "keywords": [
+    "custom-button",
+    "leaflet-custom-button",
+    "leaflet-control"
+  ],
+  "author": "durga prasad Matta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dp0891/leaflet-custom-button/issues"
+  },
+  "homepage": "https://github.com/Dp0891/leaflet-custom-button#readme"
+}
